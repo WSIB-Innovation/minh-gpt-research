@@ -1,0 +1,5 @@
+openai
+langchain==0.0.148
+gradio
+python-dotenv
+wikipedia

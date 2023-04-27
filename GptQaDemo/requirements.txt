@@ -1,0 +1,8 @@
+chromadb
+pandas
+openai
+langchain
+unstructured[local-inference]
+gradio
+python-dotenv
+BeautifulSoup4
